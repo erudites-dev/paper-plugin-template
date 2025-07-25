@@ -1,0 +1,6 @@
+name: ${plugin_name}
+version: ${version}
+main: dev.erudites.template.TemplatePlugin
+authors: ["Me"]
+website: https://erudites.dev
+api-version: ${api_version}
