@@ -15,3 +15,8 @@
 2. Create the plugin class `TemplatePlugin.java` in `src/main/java/dev/erudites/template/`
 3. Make `TemplatePlugin` extend `JavaPlugin`
 4. Define the main class and authors in `src/main/resources/plugin.yml`
+
+## Gradle Tasks
+
+- `./gradlew build` - Builds the plugin JAR file
+- `./gradlew runServer` - Runs a local server for testing the plugin
